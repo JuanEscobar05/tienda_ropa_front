@@ -123,4 +123,3 @@ Juan Escobar
 
 ---
 
-📌 *Esta documentación es ideal para presentaciones, portafolio profesional y entrevistas técnicas.*
