@@ -3,7 +3,6 @@
 ## 1. Descripción general
 
 Este proyecto corresponde al frontend de una tienda de ropa, desarrollado con HTML5, CSS3 y JavaScript. Su objetivo es presentar una interfaz visual atractiva e intuitiva para un e-commerce, permitiendo a los usuarios navegar por el sitio y simular funcionalidades básicas como el inicio de sesión.
-
 El proyecto está enfocado en el aprendizaje del desarrollo frontend, la correcta organización de archivos y la aplicación de buenas prácticas de programación web, separando responsabilidades entre vistas, controladores y servicios.
 ---
 
