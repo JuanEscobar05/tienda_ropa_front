@@ -54,6 +54,7 @@ Contiene los recursos estáticos del proyecto.
 
 * **assets/styles/**:
 * **estilos.css:** define los estilos visuales del sitio, incluyendo colores, tipografías, márgenes y distribución de los elementos.
+
   
 * **assets/img/**:
 * **banner.jpg:** imagen principal del sitio.
@@ -96,13 +97,6 @@ Archivo descriptivo del proyecto que incluye información general, objetivos y e
 * Interfaz visual de una tienda de ropa
 * Correcta organización del código frontend
 * Experiencia de usuario clara y amigable
-
----
-
-## 8. Posibles mejoras
-
-* Integrar un backend (Node.js, Spring Boot, etc.)
-* Conectar con una base de datos
 
 ---
 
